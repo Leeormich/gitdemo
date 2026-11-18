@@ -8,4 +8,8 @@ public class EmployeeService {
     public void displayEmployees() {
         System.out.println("Displaying employees");
     }
+    
+    public void deleteEmployee() {
+        System.out.println("Employee deleted successfully");
+    }
 }
